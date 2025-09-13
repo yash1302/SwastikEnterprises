@@ -22,7 +22,7 @@ This project is a static website for Swastik Enterprises, designed using HTML an
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/Swastik-Enterprises.git](https://github.com/yash1302/SwastikEnterprises.git)
+   git clone https://github.com/yash1302/SwastikEnterprises.git
    ```
 
 2. Navigate to the project directory:
