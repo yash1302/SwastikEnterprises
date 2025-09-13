@@ -28,7 +28,7 @@ This project is a static website for Swastik Enterprises, designed using HTML an
 2. Navigate to the project directory:
 
    ```bash
-   cd Swastik-Enterprises
+   cd SwastikEnterprises
    ```
 
 3. No additional dependencies are required as the project uses only HTML and CSS.
